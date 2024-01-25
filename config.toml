@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kenzaelmaliki.github.io/labveilletech-kenza"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
