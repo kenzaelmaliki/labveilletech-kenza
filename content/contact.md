@@ -14,7 +14,7 @@ Actuellement étudiante en 3ème année de bachelor en ingénierie des médias, 
 
 ## Mon Ikigai
 
-![Ikigai](images/ikigai.jpg)
+![Ikigai](/labveilletech-kenza/images/ikigai.jpg)
 
 Mon Ikigai se manifeste à travers mon rôle de chef de projet, où ma mission est d'enseigner et de diriger une équipe avec empathie, tout en favorisant un environnement propice à l'épanouissement professionnel. Ma passion pour le dépassement de soi se reflète dans l'énergie que je déploie pour atteindre les objectifs de mes projets. Mon autonomie, mon organisation et ma capacité à gérer efficacement les charges sont des compétences que je mets au service de mon métier de gestionnaire, contribuant ainsi à un monde où le leadership est synonyme d'empathie et de considération éthique dans le milieu professionnel.
 
